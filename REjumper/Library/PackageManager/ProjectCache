@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637729678722388240
-    m_Hash: 347916568
+      ticks: 637739393784008752
+    m_Hash: 86066403
   m_LockFileStatus:
     m_FilePath: H:/School work/Mobile/Assignment2/ReJumper/REjumper/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637729678730554161
-    m_Hash: 52123023
+      ticks: 637739393784347843
+    m_Hash: 275678395
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,59 @@ m_LocalPackages:
 m_ProjectPath: H:/School work/Mobile/Assignment2/ReJumper/REjumper/Packages
 m_EditorVersion: 2021.1.21f1 (f2d5d3c59f8c)
 m_ResolvedPackages:
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: H:\School work\Mobile\Assignment2\ReJumper\REjumper\Library\PackageCache\com.unity.2d.tilemap@1.0.0
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: 
+    name: 
+    url: 
+    scopes: []
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 0
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.9.0
   testable: 0
   isDirectDependency: 1
@@ -73,7 +126,9 @@ m_ResolvedPackages:
     - 1.12.5
     - 1.13.5
     - 1.14.1
+    - 1.14.4
     - 1.15.1
+    - 1.15.4
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -91,7 +146,9 @@ m_ResolvedPackages:
     - 1.12.5
     - 1.13.5
     - 1.14.1
+    - 1.14.4
     - 1.15.1
+    - 1.15.4
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -875,6 +932,7 @@ m_ResolvedPackages:
     - 1.7.2
     - 1.7.3
     - 1.7.5
+    - 1.7.6
     - 1.8.0-pre.1
     compatible:
     - 1.6.1
@@ -882,6 +940,7 @@ m_ResolvedPackages:
     - 1.7.2
     - 1.7.3
     - 1.7.5
+    - 1.7.6
     verified: 1.6.1
   dependencies:
   - name: com.unity.ugui
